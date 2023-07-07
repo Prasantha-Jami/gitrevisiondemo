@@ -6,3 +6,4 @@ git branch branch_name
 git checkout branch_name
 git commmit -m "git commands"
 git add filename
+git@github.com:Prasantha-Jami/gitrevisiondemo.git
